@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Embedded Software developement among the **GTT** team
 - 📫 How to reach me :  
 **discord**: tobedefined
+**mail**:  quentin.tixeront@volvo.com
 
 <!---
 qTix/qTix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
