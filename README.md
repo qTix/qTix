@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Embedded Software** & AI **developement**
 - 🌱 I’m currently learning Embedded Software developement among the **GTT** team
 - 📫 How to reach me :  
-**discord**: tobedefined
+**discord**: tobedefined  
 **mail**:  quentin.tixeront@volvo.com
 
 <!---
